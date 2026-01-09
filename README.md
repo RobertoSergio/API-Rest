@@ -98,7 +98,7 @@ com.example.apirest/
 ## Requisitos Atendidos
 
 - Consumo de API REST externa
-- Cadastro e autenticação de usuários (armazenamento local)
+- Cadastro e autenticação de usuários
 - Aplicação com múltiplas telas
 - Uso de bibliotecas modernas (Retrofit e Picasso)
 - Interface seguindo os padrões do Material Design

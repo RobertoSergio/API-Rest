@@ -1,3 +1,43 @@
 <resources>
-    <string name="app_name">API Rest</string>
+    <!-- Strings principais -->
+    <string name="app_name">Pokédex</string>
+    <string name="pokemon_image">Imagem do Pokémon</string>
+    <string name="height">Altura: %1$d</string>
+    <string name="weight">Peso: %1$d</string>
+    <string name="type">Tipo: %1$s</string>
+
+    <!-- Strings para erros -->
+    <string name="no_connection">Sem conexão com a internet</string>
+    <string name="timeout">Tempo limite excedido</string>
+    <string name="server_error">Erro no servidor</string>
+    <string name="pokemon_not_found">Pokémon não encontrado</string>
+    <string name="loading_error">Erro ao carregar</string>
+
+    <!-- Strings para o perfil -->
+    <string name="profile_title">Perfil do Treinador</string>
+    <string name="trainer_icon">👤</string>
+    <string name="trainer_title">Treinador</string>
+    <string name="trainer_subtitle">Mestre Pokémon</string>
+    <string name="statistics_title">Estatísticas</string>
+    <string name="pokeball_icon">🔴</string>
+    <string name="pokemon_captured">Pokémons Capturados</string>
+    <string name="badge_icon">🏅</string>
+    <string name="badges">Insígnias</string>
+    <string name="zero">0</string>
+
+    <!-- Strings para login -->
+    <string name="welcome_message">Bem-vindo ao</string>
+    <string name="pokedex_title">Pokédex</string>
+    <string name="trainer_name_hint">Nome de Treinador</string>
+    <string name="start_journey">Começar Jornada</string>
+    <string name="catch_all">Capture todos!</string>
+    <string name="lightning_icon">⚡</string>
+
+    <!-- Strings para lista de pokémons -->
+    <string name="pokedex_header">Pokédex</string>
+    <string name="profile_icon">👤</string>
+
+    <!-- Strings para detalhes do pokémon -->
+    <string name="height_icon">📏</string>
+    <string name="weight_icon">⚖️</string>
 </resources>

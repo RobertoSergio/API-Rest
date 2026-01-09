@@ -111,3 +111,7 @@ com.example.apirest/
 2. Abra o projeto no Android Studio
 3. Aguarde a sincronização do Gradle
 4. Execute o aplicativo em um emulador ou dispositivo físico
+
+## Link do Vídeo Demonstração da execução da aplicação
+
+https://drive.google.com/file/d/1SKSs8sQ9iVhabl_KrXjZmu8JurUqhspT/view
